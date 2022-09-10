@@ -1,0 +1,16 @@
+.label {
+    font: sans-serif;
+    font-size: 16px;
+    color: #555555;
+    vertical-align: top;
+    margin: 3px 10px;
+    width: 80px;
+    height: 20px;
+    font-weight: 600;
+}
+
+.input{
+    resize:none;
+    border-radius: 5px;
+    width: 320px;
+}

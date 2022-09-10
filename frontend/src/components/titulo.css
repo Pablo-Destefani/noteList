@@ -1,0 +1,9 @@
+.titulo{
+    background-color: #eeeeee;
+    position: relative;
+    text-align: center;
+    padding: 1% 4% 1% 2%;
+    font: sans-serif;
+    color: #444444;
+    width: 450px;
+}

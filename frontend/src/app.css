@@ -1,0 +1,29 @@
+.body{
+    background-color: #eeeeee;
+    
+}
+
+.header{
+    display: flex;
+    background-color: #eeeeee;
+    border-bottom: dashed;
+    border-color: #444444;
+    height: 80px;
+}
+.botonera-principal{
+    display: flex;
+    margin: 1% 0% 1% 0%;
+    justify-content: space-around;
+    width: 300px;
+}
+
+.boton-principal{
+    margin-right: 5%;
+    width: auto;
+    font-size: 20px;
+}
+
+.footer{
+    background-color: #eeeeee;
+    height: 150px;
+}
